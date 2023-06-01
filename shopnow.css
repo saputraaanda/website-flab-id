@@ -1,0 +1,24 @@
+/* collection */
+
+.collection-container {
+    margin: 12px;;
+}
+.active-filter-btn{
+    background-color: var(--pink)!important;
+    color: black!important;
+    border-color: var(--pink)!important;
+  }
+  .filter-button-group .btn:hover{
+    color:  rgb(255, 187, 0)!important;
+  }
+  .collection-img span{
+    top: 20px;
+    right: 20px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+  }
+
+  
+
+
